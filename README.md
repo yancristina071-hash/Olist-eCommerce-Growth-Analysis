@@ -14,7 +14,7 @@
 | **订单规模** | ~10 万笔有效订单，~9.8 万独立买家 |
 | **总 GMV** | ~1600 万 BRL（巴西雷亚尔） |
 | **分析工具** | Python 3 · DuckDB（内存数据库） · SQL · Matplotlib |
-| **其他项目成果**|**[飞书版电商用户行为分析报告](https://my.feishu.cn/wiki/TBq0wpg7Aiqpx2kK36YcbRvSnLd)**|
+| **其他项目成果**|**[飞书版olist电商经营分析报告](https://my.feishu.cn/wiki/TBq0wpg7Aiqpx2kK36YcbRvSnLd)**|
 | **作者** | Cristina Yan |
 
 ---
